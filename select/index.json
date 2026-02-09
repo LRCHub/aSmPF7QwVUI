@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "出囃子ジャポニズム",
+  "base_artist": "儒烏風亭らでん",
+  "createdAt": "2026-02-09T08:24:23.329906Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "出囃子ジャポニズム",
+      "artist": "儒烏風亭らでん",
+      "has_synced": false,
+      "path": "select/pl_01_出囃子ジャポニズム_儒烏風亭らでん.txt"
+    }
+  ]
+}
